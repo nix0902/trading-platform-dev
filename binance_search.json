@@ -1,0 +1,92 @@
+[
+  {
+    "url": "https://developers.binance.com/docs/derivatives/usds-margined-futures/websocket-market-streams",
+    "name": "Websocket Market Streams",
+    "snippet": "The connection method for Websocket is：. Base Url: wss://fstream.binance.com ... A single connection can listen to a maximum of 1024 streams.",
+    "host_name": "developers.binance.com",
+    "rank": 0,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.binance.com/en/academy/articles/how-to-use-binance-websocket-stream",
+    "name": "How to Use Binance Websocket Stream?",
+    "snippet": "Apr 23, 2025 — The Binance Spot WebSocket Stream allows users to access real-time market data for programmatic spot trading.",
+    "host_name": "www.binance.com",
+    "rank": 1,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developers.binance.com/docs/derivatives/usds-margined-futures/websocket-api-general-info",
+    "name": "Websocket API General Info | Binance Open Platform",
+    "snippet": "A single connection to the API is only valid for 24 hours; expect to be disconnected after the 24-hour mark. Websocket server will send a ping frame every 3 ...",
+    "host_name": "developers.binance.com",
+    "rank": 2,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developers.binance.com/docs/binance-spot-api-docs/web-socket-streams",
+    "name": "WebSocket Streams | Binance Open Platform",
+    "snippet": "The websocket server will send a ping frame every 20 seconds. All time and timestamp related fields are milliseconds by default.",
+    "host_name": "developers.binance.com",
+    "rank": 3,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://developers.binance.com/docs/binance-spot-api-docs/testnet/web-socket-streams",
+    "name": "WebSocket Streams | Binance Open Platform",
+    "snippet": "A connection that goes beyond the limit will be disconnected; IPs that are repeatedly ...",
+    "host_name": "developers.binance.com",
+    "rank": 4,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://github.com/oliver-zehentleitner/unicorn-binance-websocket-api",
+    "name": "oliver-zehentleitner/unicorn-binance-websocket-api",
+    "snippet": "For this purpose, the UNICORN Binance WebSocket API provides so-called stream_signals , which are used to tell your code in real time when a stream is connected ...",
+    "host_name": "github.com",
+    "rank": 5,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.binance.com/en/academy/articles/how-to-use-binance-websocket-api",
+    "name": "How to Use Binance WebSocket API?",
+    "snippet": "Apr 22, 2025 — Learn how to connect to the Binance WebSocket API, send requests, correlate responses, authenticate sessions, and compare its pros and cons ...",
+    "host_name": "www.binance.com",
+    "rank": 6,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.esegece.com/help/sgcWebSockets/Components/APIs/API/API_Binance.htm",
+    "name": "API Binance",
+    "snippet": "Futures: WebSocket Futures Market Data Streams are supported through the Binance Futures Client API. The client supports Binance.us too, the following APIs ...",
+    "host_name": "www.esegece.com",
+    "rank": 7,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://python-binance.readthedocs.io/en/latest/websockets.html",
+    "name": "Websockets — python-binance 0.2.0 documentation - Read the Docs",
+    "snippet": "There are 2 ways to interact with websockets for streaming data: with ThreadedWebsocketManager or BinanceSocketManager.",
+    "host_name": "python-binance.readthedocs.io",
+    "rank": 8,
+    "date": "",
+    "favicon": ""
+  },
+  {
+    "url": "https://www.npmjs.com/package/binance",
+    "name": "binance",
+    "snippet": "Feb 9, 2026 — Supports WebSocket API on all available product groups, including Spot & Futures: Use the WebsocketClient's event-driven sendWSAPIRequest ...",
+    "host_name": "www.npmjs.com",
+    "rank": 9,
+    "date": "",
+    "favicon": ""
+  }
+]
